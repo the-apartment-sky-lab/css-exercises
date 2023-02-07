@@ -19,6 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -50,4 +51,12 @@ ul {
 .left-links, .right-links {
   display: flex;
   gap: 15px;
+}
+
+.footer {
+  background-color: #eeeeee;
+}
+
+a {
+  text-decoration: none;
 }
